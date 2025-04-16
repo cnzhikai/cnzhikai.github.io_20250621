@@ -3,7 +3,7 @@ layout: home
 title: "About"
 photo: "assets/photo.png"
 desc: >-
-    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My PhD research is focusing on integration of origami structures and microactuators with CMOS to faciliate on-chip 3D biological interfacing.</p><p>Prior to my PhD, I obtained my bachelor's degree from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> and master's degree from <a href="https://ethz.ch/en.html">ETH Zurich</a>. I was a visiting research intern at <a href="https://www.mcgill.ca/">McGill University</a>. </p>
+    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My PhD research is focusing on integration of origami microactuators and microstructures with CMOS to faciliate on-chip 3D biological interfacing.</p><p>Prior to my PhD, I obtained my bachelor's degree from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> and master's degree from <a href="https://ethz.ch/en.html">ETH Zurich</a>. I was a visiting research intern at <a href="https://www.mcgill.ca/">McGill University</a>. </p>
 ---
 
 ## Publication
