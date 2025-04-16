@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<main class="main about">
+	<article>
+		<header>
+			<h1>{{ site.title }}</h1>
+		</header>
+		{%- if site.subtitle -%}
+		<p>
+			{{ site.subtitle }}
+		</p>
+		{%- endif -%}
+
+		<section class="intro">
+
+			{%- if page.desc -%}
+				{%- if page.photo -%}
+				<div class="photo">
+					<img src="{{ page.photo }}" width="90%"/>
+				</div>
+				{%- endif -%}
+			<div class="desc">
+				{{ page.desc }}
+			</div>
+			{%- else -%}
+				{%- if page.photo -%}
+				<div class="photo" style="margin: auto; width: auto">
+					<img src="{{ page.photo }}"/>
+				</div>
+				{%- endif -%}
+			{%- endif -%}
+
+		</section>
+
+		<div class="social">
+			<a href="mailto:{{ site.email }}">
+				Email
+			</a>
+			<span class="separator">&bull;</span>
+			<a href="https://github.com/{{ site.github_username }}">
+				GitHub
+			</a>
+			<span class="separator">&bull;</span>
+			<a href="https://twitter.com/{{ site.twitter_username }}">
+				Twitter
+			</a>
+			<span class="separator">&bull;</span>
+			<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+				LinkedIn
+			</a>
+		</div>
+
+		{{ content }}
+
+	</article>
+</main>

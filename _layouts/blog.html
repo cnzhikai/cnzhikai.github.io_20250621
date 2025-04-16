@@ -1,0 +1,78 @@
+---
+layout: default
+title: Blog
+---
+
+<main class="main blog">
+	<article>
+		<h1>Blog</h1>
+		
+		{{ content }}
+		
+		{%- if site.posts.size > 0 -%}
+
+			{%- for post in site.posts -%}
+			<article>
+				<header>
+					<div class="title-and-meta">
+						<h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+						{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+						<div class="post-meta">
+							{%- if false -%}
+							<div class="author">
+								<img src="{{ "assets/author_mini.png" | relative_url }}" width="15" />
+								<span class="name">Triton Maxwell</span>
+								<span class="role">Admin</span>
+							</div>
+							{%- endif -%}
+							<div class="posted-date">
+								<span class="icon calendar"></span>
+								<span class="date">{{ post.date | date: date_format }}</span>
+							</div>
+							{%- if post.categories -%}
+							<div class="tagged-in">
+								<span class="icon tag"></span>
+								<ul>
+									{%- for category in post.categories -%}
+									<li>
+										{{ category }}
+									</li>
+									{%- endfor -%}
+								</ul>
+							</div>
+							{%- endif -%}
+							{%- if false -%}
+							<div class="total-comments">
+								<span class="icon comment"></span>
+								<a href="#">107 Comments</a>
+							</div>
+							{%- endif -%}
+						</div>
+					</div>
+				</header>
+
+				{%- if false -%}
+				<figure class="poster-image">
+					<img src="{{ "assets/agriculture-apple-blur.jpg" | relative_url }}">
+				</figure>
+				{%- endif -%}
+
+				{%- if site.show_excerpts -%}
+				{{ post.excerpt }}
+				{%- endif -%}
+
+				<div class="continue-reading">
+					<a href="{{ post.url | relative_url }}">Continue Reading →</a>
+				</div>
+			</article>
+			{%- endfor -%}
+			</ul>
+
+		{%- else -%}
+		<p>
+			No posts yet ...
+		</p>
+		{%- endif -%}
+	
+	</article>
+</main>

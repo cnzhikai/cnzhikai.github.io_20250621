@@ -1,0 +1,158 @@
+---
+layout: default
+---
+
+<main class="main post-detail">
+	<article itemscope itemtype="http://schema.org/BlogPosting">
+		
+		<header>
+			<div class="title-and-meta">
+				<h1>{{ page.title | escape }}</h1>
+
+				<div class="post-meta">
+					{%- if page.author -%}
+					<div class="author">
+						<img src="{{ "assets/author_mini.png" | relative_url }}" width="15"/>
+						<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+						<span class="role">Admin</span>
+					</div>
+					{%- endif -%}
+
+					<div class="posted-date">
+						<span class="icon calendar"></span>
+						<span>
+							<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+								{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+								{{ page.date | date: date_format }}
+							</time>
+						</span>
+					</div>
+
+					{%- if page.categories -%}
+					<div class="tagged-in">
+						<span class="icon tag"></span>
+						<ul>
+							{%- for category in page.categories -%}
+							<li>
+								{{ category }}
+							</li>
+							{%- endfor -%}
+						</ul>
+					</div>
+					{%- endif -%}
+					{%- if false -%}
+					<div class="total-comments">
+						<span class="icon comment"></span>
+						<a href="#">107 Comments</a>
+					</div>
+					{%- endif -%}
+				</div>
+			</div>
+		</header>
+		
+		{%- if false -%}
+		<figure class="full poster-image">
+			<img src="{{ "assets/animal-animal-photography-canidae.jpg" | relative_url }}">
+		</figure>
+		{%- endif -%}
+
+		{{ content }}
+
+		<hr>
+
+		{%- if false -%}
+
+		<section class="related-posts">
+			<h3>Related Posts</h3>
+			<ul>
+				<li>
+					<a href="#">Lorem ipsum dolor sit amet</a>
+				</li>
+				<li>
+					<a href="#">Sed ut perspiciatis unde omnis iste</a>
+				</li>
+				<li>
+					<a href="#">At vero eos et accusamus</a>
+				</li>
+				<li>
+					<a href="#">Temporibus autem quibusdam</a>
+				</li>
+				<li>
+					<a href="#">Ut enim ad minima veniam</a>
+				</li>
+			</ul>
+		</section>
+
+		<section class="comments">
+			<h3>Comments</h3>
+
+			<h4>Post Comment</h4>
+
+			<form>
+				<div class="new-comment">
+					<div class="user">
+						<img src="assets/author_mini.png" width="50"/>
+						<span>You</span>
+					</div>
+					<div class="form-control">
+						<textarea placeholder="Write not more than 500 characters..."></textarea>
+					</div>
+				</div>
+			</form>
+
+			<h4>2 Comments</h4>
+
+			<ul class="comments-list">
+				<li>
+					<div class="comment">
+						<div class="user">
+							<img src="assets/martin.png" width="50"/>
+							<span>Martin</span>
+						</div>
+						<div class="comment-info">
+							<div class="commented-date">
+								just now
+							</div>
+							<div class="desc">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+								dolore magna aliqua.
+							</div>
+							<div>
+								<button>Reply</button>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li>
+					<div class="comment">
+						<div class="user">
+							<img src="assets/tanny.jpg" width="50"/>
+							<span>Tanny</span>
+						</div>
+						<div class="comment-info">
+							<div class="commented-date">
+								2 days ago
+							</div>
+							<div class="desc">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+								dolore magna aliqua.
+							</div>
+							<div>
+								<button>Reply</button>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</section>
+
+		{%- endif -%}
+
+		{%- if site.disqus.shortname -%}
+			{%- include disqus_comments.html -%}
+	  	{%- endif -%}
+		
+		<a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+	</article>
+</main>
