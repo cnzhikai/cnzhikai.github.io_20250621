@@ -2,10 +2,29 @@
 layout: home
 photo: "assets/photo.png"
 desc: >-
-    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, dedicated to advancing human health through innovative biomedical technologies. </p> <p>My research spans device design using scalable microfabrication techniques compatible with CMOS and MEMS platforms, circuit development for interfacing with the physical world through seamless integration and optimization, and system-level enhancement by incorporating advanced features like machine learning for broader applications.</p>
+    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. </p> <p>My research spans device design using scalable microfabrication techniques compatible with CMOS and MEMS platforms, circuit development for interfacing with the physical world through seamless integration and optimization, and system-level enhancement by incorporating advanced features like machine learning for broader applications.</p>
 ---
 
 ## Publication
+
+### Thesis
+
+<div>
+<ol>
+    <li>
+        <b> A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation</b> <br />
+        <u>Zhikai Huang</u>  <br />
+        2022 Master Thesis ETH Zurich
+    </li>
+    <li>
+        <b> Research and Implementation of A Battery State-of-Charge Estimation Method without Current Dectection</b> <br />
+        <u>Zhikai Huang</u>  <br />
+        2019 Bachelor Thesis Xi'an Jiaotong University
+    </li>    
+
+</ol>
+</div>
+
 
 ### Peer-Reviewed Conferences
 
@@ -44,7 +63,7 @@ desc: >-
     <li>
         <a href="https://doi.org/10.1109/ESSCIRC59616.2023.10268777"><b>A 256-channel in-pixel electrochemical platform in CMOS for rapid isothermal genetic amplification and screening</b></a> <br />
         Hangxing Liu, Fuze Jiang, Dongwon Lee, Yuguo Sheng, Adam Wang, Marco Saif, Ying Kong, <u>Zhikai Huang</u>, Thomas Burger, Jing Wang, Hua Wang  <br />
-        In <i>2024 IEEE International Solid-State Circuits Conference</i> (ISSCC 2024).
+        In <i>2023 IEEE 49th European Solid State Circuits Conference</i> (ESSCIRC 2024).
     </li>
       <li>
         <a href="https://doi.org/10.23919/DATE54114.2022.9774552"><b>SNE: an energy-proportional digital accelerator for sparse event-based convolutions</b></a> <br />
