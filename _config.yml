@@ -1,6 +1,6 @@
-title: Your awesome site
-subtitle: Your awesome one-liner intro
-email: your-email@example.com
+title: Zhikai Huang（黄志凯）
+subtitle: PhD student at ETH Zurich
+email: zhhuang@ethz.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -8,9 +8,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: Some fantastic keywords, and more
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-linkedin_username: jekyll
+# twitter_username: jekyllrb
+github_username:  cnzhikai
+linkedin_username: cnzk
 
 show_excerpts: true
 
