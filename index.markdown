@@ -2,7 +2,7 @@
 layout: home
 photo: "assets/photo.png"
 desc: >-
-    <p>aaa </p>
+    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, dedicated to advancing human health through innovative biomedical technologies. </p> <p>My research spans device design using scalable microfabrication techniques compatible with CMOS and MEMS platforms, circuit development for interfacing with the physical world through seamless integration and optimization, and system-level enhancement by incorporating advanced features like machine learning for broader applications.</p>
 ---
 
 ## Publication
@@ -55,33 +55,16 @@ desc: >-
 </ol>
 </div>
 
-## Lorem ipsum dolor sit amet
+## Teaching
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque
-corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa
-qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita
-distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut
-officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non
-recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias
-consequatur aut perferendis doloribus asperiores repellat.
+- 2024 Fall. Teaching Assistant, Electronic Circuits, ETH Zurich.
 
-## Lorem ipsum dolor sit amet
+## Services
 
-Duis euismod luctus erat, vel bibendum quam ultricies a. Fusce blandit tortor justo, vel fringilla diam tristique
-eget. In eleifend volutpat lorem, tempor pellentesque neque laoreet ac. Donec feugiat egestas lorem. In nec porta
-erat. Vestibulum in efficitur nisi.
+- Reviewer for IEEE Conferences
+     -  ISCAS (2025)
+ 
 
-* Pellentesque at egestas elit
-* Duis ultricies purus<
-* Duis euismod luctus erat
-* Lorem ipsum dolor sit
 
-## Lorem ipsum dolor sit amet
 
-1. Pellentesque at egestas elit
-1. Duis ultricies purus
-1. Duis euismod luctus erat
-1. Lorem ipsum dolor sit
-
-> To learn, to achieve, and to love.
+> Last update: 2025 April
