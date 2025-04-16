@@ -2,7 +2,7 @@
 layout: home
 photo: "assets/photo.png"
 desc: >-
-    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My PhD research is focusing on design and implementation of CMOS-enabled bioelectronic system to interface in-vitro 3D biological models. </p> <p>I obtained my bachelor's degree from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> and master's degree from <a href="https://ethz.ch/en.html">ETH Zurich</a>. </p>
+    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My PhD research is focusing on design and implementation of CMOS-enabled bioelectronic system to interface in-vitro 3D biological models. </p> <p>I obtained my bachelor's degree from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> and master's degree from <a href="https://ethz.ch/en.html">ETH Zurich</a>. I was a visiting research intern at <a href="https://www.mcgill.ca/">McGill University</a>. </p>
 ---
 
 ## Publication
@@ -14,12 +14,12 @@ desc: >-
     <li>
         <b> A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation</b> <br />
         <u>Zhikai Huang</u>  <br />
-        <i>2022 Master Thesis ETH Zurich</i>
+        <i>2022 Master of Science in Biomedical Engineering Thesis at ETH Zurich</i>
     </li>
     <li>
         <b> Research and Implementation of A Battery State-of-Charge Estimation Method without Current Dectection</b> <br />
         <u>Zhikai Huang</u>  <br />
-        <i>2019 Bachelor Thesis Xi'an Jiaotong University</i>
+        <i>2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University</i>
     </li>    
 
 </ol>
@@ -68,7 +68,7 @@ desc: >-
       <li>
         <a href="https://doi.org/10.23919/DATE54114.2022.9774552"><b>SNE: an energy-proportional digital accelerator for sparse event-based convolutions</b></a> <br />
         Alfio Di Mauro, Arpan Suravi Prasad, <u>Zhikai Huang</u>, Matteo Spallanzani, Francesco Conti, Luca Benini  <br />
-        In <i>2022 Design, Automation & Test in Europe Conference & Exhibition</i> (DATE 2024).
+        In <i>2022 Design, Automation & Test in Europe Conference & Exhibition</i> (DATE 2022).
     </li>
             
 </ol>
