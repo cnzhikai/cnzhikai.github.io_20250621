@@ -5,16 +5,25 @@ desc: >-
     <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, dedicated to advancing human health through innovative biomedical technologies. My research spans device design using scalable microfabrication techniques compatible with CMOS and MEMS platforms, circuit development for interfacing with the physical world through seamless integration and optimization, and system-level enhancement by incorporating advanced features like machine learning for broader applications. </p>
 ---
 
-## Lorem ipsum dolor sit amet
+## Publication
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo
-enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui
-ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut
-aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
-molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+<ol>
+    <li>
+        <a href="https://dpdksummit2023.sched.com/event/1P9wv/fast-and-secure-dpdk-meets-confidential-computing-zhifei-yang-tiktok"><b>Fast and Secure: DPDK Meets Confidential Computing</b></a> <br />
+        <u>Zhifei Yang</u>, Liang Ma<br />
+        In <i>DPDK Summit 2023</i> (<a href="https://www.youtube.com/watch?v=sQxyMw4zF7Q">video</a>). 
+    </li>
+    <li>
+        <a href="https://www.usenix.org/conference/osdi22/presentation/zhou-diyu"><b>Odinfs: Scaling PM performance with Opportunistic Delegation</b></a> <br />
+        Diyu Zhou, Yuchen Qian, Vishal Gupta, <u>Zhifei Yang</u>, Changwoo Min, and Sanidhya Kashyap<br />
+        In <i>Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation</i> (OSDI '22). 
+    </li>
+    <li>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3452413.3464786"><b>Motivating High Performance Serverless Workloads</b></a> <br />
+        Hai Duc Nguyen, <u>Zhifei Yang</u>, Andrew A. Chien<br />
+        In <i>Proceedings of the 1st Workshop on High Performance Serverless Computing</i> (HiPS '21).
+    </li>
+</ol>
 
 ## Lorem ipsum dolor sit amet
 
