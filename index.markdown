@@ -39,8 +39,8 @@ desc: >-
         In <i>2024 IEEE Symposium on VLSI Technology and Circuits</i> (VLSI 2024).
     </li>
     <li>
-        <a href="https://doi.org/10.1109/ISSCC49657.2024.10454430"><b>17.6 Fully Integrated CMOS Ferrofluidic Biomolecular Processing Platform with On-Chip Droplet-Based Manipulation, Multiplexing and Sensing</b></a> <br />
-        Dongwon Lee, Kyung-Sik Choi, Fuze Jiang, Hangxing Liu, Doohwan Jung, Ying Kong, Marco Saif, <u>Zhikai Huang</u>  <br />
+        <a href="https://doi.org/10.1109/ISSCC49657.2024.10454430"><b>Fully Integrated CMOS Ferrofluidic Biomolecular Processing Platform with On-Chip Droplet-Based Manipulation, Multiplexing and Sensing</b></a> <br />
+        Dongwon Lee, Kyung-Sik Choi, Fuze Jiang, Hangxing Liu, Doohwan Jung, Ying Kong, Marco Saif, <u>Zhikai Huang</u>, Jing Wang, Hua Wang  <br />
         In <i>2024 IEEE International Solid-State Circuits Conference</i> (ISSCC 2024).
     </li>
     <li>
