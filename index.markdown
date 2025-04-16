@@ -76,7 +76,8 @@ desc: >-
 
 ## Teaching
 
-- 2024 Fall. Teaching Assistant, Electronic Circuits, ETH Zurich.
+- 2024 Fall. Teaching Assistant, Electronic Circuits (Bachelor Course), ETH Zurich.
+- 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
 
 ## Services
 
