@@ -1,8 +1,8 @@
 ---
 layout: home
-photo: "assets/photo.jpg"
+photo: ""
 desc: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, dedicated to advancing human health through innovative biomedical technologies. My research spans device design using scalable microfabrication techniques compatible with CMOS and MEMS platforms, circuit development for interfacing with the physical world through seamless integration and optimization, and system-level enhancement by incorporating advanced features like machine learning for broader applications. </p>
 ---
 
 ## Lorem ipsum dolor sit amet
