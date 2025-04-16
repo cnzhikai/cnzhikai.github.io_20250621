@@ -39,7 +39,7 @@ desc: >-
     <li>
         <a href="https://doi.org/10.1109/BioCAS61083.2024.10798135"><b>A CMOS-Compatible and Actuatable 3D-Microcage Array with Shape-Memory for On-Chip Dynamic Cell Interfacing</b></a> <br />
         <U>Zhikai Huang</u>, Fuze Jiang, Hangxing Liu, Ying Kong, Yuguo Sheng, Adam Wang, Dongwon Lee, Marco Saif, Hua Wang <br />
-        In <i>2024 IEEE Biomedical Circuits and Systems Conference</i> (BioCAS 2022). 
+        In <i>2024 IEEE Biomedical Circuits and Systems Conference</i> (BioCAS 2024). 
     </li>
     <li>
         <a href="https://doi.org/10.1109/ESSERC62670.2024.10719586"><b>A CMOS Molecular Sensor for Personalized Diagnostics Featuring Enzyme-Free Reading and Encoding of Viral Variants at Single-Nucleotide Resolution</b></a> <br />
