@@ -9,6 +9,7 @@ desc: >-
 
 ### Peer-Reviewed Conferences
 
+<div>
 <ol>
     <li>
         <a href="https://doi.org/10.1109/ISSCC49661.2025.10904809"><b>MEMS-Free 4096-Pixel CMOS E-Nose Gas Sensor Array with Molecular-Selective Metal-Organic-Framework Sensing and In-Pixel Thermodynamic Modulation for Fast Sensor Regeneration</b></a> <br />
@@ -17,7 +18,7 @@ desc: >-
     </li>
     <li>
         <a href="https://doi.org/10.1109/BioCAS61083.2024.10798135"><b>A CMOS-Compatible and Actuatable 3D-Microcage Array with Shape-Memory for On-Chip Dynamic Cell Interfacing</b></a> <br />
-        Zhikai Huang</u>, Fuze Jiang, Hangxing Liu, Ying Kong, Yuguo Sheng, Adam Wang, Dongwon Lee, Marco Saif, Hua Wang <br />
+        <U>Zhikai Huang</u>, Fuze Jiang, Hangxing Liu, Ying Kong, Yuguo Sheng, Adam Wang, Dongwon Lee, Marco Saif, Hua Wang <br />
         In <i>2024 IEEE Biomedical Circuits and Systems Conference</i> (BioCAS 2022). 
     </li>
     <li>
@@ -42,7 +43,7 @@ desc: >-
     </li>
     <li>
         <a href="https://doi.org/10.1109/ESSCIRC59616.2023.10268777"><b>A 256-channel in-pixel electrochemical platform in CMOS for rapid isothermal genetic amplification and screening</b></a> <br />
-        Dongwon Lee, Kyung-Sik Choi, Fuze Jiang, Hangxing Liu, Doohwan Jung, Ying Kong, Marco Saif, <u>Zhikai Huang  <br />
+        Hangxing Liu, Fuze Jiang, Dongwon Lee, Yuguo Sheng, Adam Wang, Marco Saif, Ying Kong, <u>Zhikai Huang</u>, Thomas Burger, Jing Wang, Hua Wang  <br />
         In <i>2024 IEEE International Solid-State Circuits Conference</i> (ISSCC 2024).
     </li>
       <li>
@@ -52,6 +53,7 @@ desc: >-
     </li>
             
 </ol>
+</div>
 
 ## Lorem ipsum dolor sit amet
 
