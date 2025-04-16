@@ -18,7 +18,7 @@ desc: >-
         <i>2022 Master of Science in Biomedical Engineering Thesis at ETH Zurich</i>
     </li>
     <li>
-        <b> Research and Implementation of A Battery State-of-Charge Estimation Method without Current Dectection</b> <br />
+        <b> A Battery State-of-Charge Estimation ASIC without Current Dectection</b> <br />
         <u>Zhikai Huang</u>  <br />
         <i>2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University</i>
     </li>    
