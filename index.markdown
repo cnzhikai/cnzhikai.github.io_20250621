@@ -2,7 +2,7 @@
 layout: home
 photo: "assets/photo.png"
 desc: >-
-    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. </p> <p>My research spans device design using scalable microfabrication techniques compatible with CMOS and MEMS platforms, circuit development for interfacing with the physical world through seamless integration and optimization, and system-level enhancement by incorporating advanced features like machine learning for broader applications.</p>
+    <p>I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My PhD research is focusing on design and implementation of CMOS-enabled bioelectronic system to interface in-vitro 3D biological models. </p> <p>I obtained my bachelor's degree from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> and master's degree from <a href="https://ethz.ch/en.html">ETH Zurich</a>. </p>
 ---
 
 ## Publication
@@ -14,12 +14,12 @@ desc: >-
     <li>
         <b> A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation</b> <br />
         <u>Zhikai Huang</u>  <br />
-        2022 Master Thesis ETH Zurich
+        <i>2022 Master Thesis ETH Zurich</i>
     </li>
     <li>
         <b> Research and Implementation of A Battery State-of-Charge Estimation Method without Current Dectection</b> <br />
         <u>Zhikai Huang</u>  <br />
-        2019 Bachelor Thesis Xi'an Jiaotong University
+        <i>2019 Bachelor Thesis Xi'an Jiaotong University</i>
     </li>    
 
 </ol>
