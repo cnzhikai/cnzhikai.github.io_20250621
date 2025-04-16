@@ -9,7 +9,7 @@ desc: >-
 ## Publication
 
 
-### Peer-Reviewed Conferences
+### Conference Papers (Peer-Reviewed)
 
 <div>
 <ol>
